@@ -1,3 +1,7 @@
+#BME 354 Pacemaker Added Functionality Bluetooth Terminal Code
+#Authors: Kabir Gupta
+#Last edited: April 21, 2026
+
 import asyncio
 from bleak import BleakClient
 import csv
