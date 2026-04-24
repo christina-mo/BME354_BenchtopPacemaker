@@ -1,3 +1,7 @@
+//BME 354 Pacemaker Pacing & Added Functionality Arduino Code
+//Authors: Christina Mo, Kabir Gupta
+//Last edited: April 21, 2026
+
 //ECG pins
 const int ECG_amp_pin = A0; //amplified filtered ECG pin
 const int ECG_comp_pin = A1; //ECG pin
